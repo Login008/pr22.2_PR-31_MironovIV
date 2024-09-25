@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Астрономическая картина дня</string>
+    <string name="enter_log"> Введите логин</string>
+    <string name="enter_pas"> Введите пароль</string>
+    <string name="check_pas"> Подтвердите пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="log_in">Войти</string>
+    <string name="No_acc">Ещё нет аккаунта?</string>
+    <string name="Registerr">Зарегистрируйтесь!</string>
+    <string name="enter_date">Введите дату интересующего дня</string>
+    <string name="search">Поиск информации</string>
+    <string name="log_out">Выйти из аккаунта</string>
+    <string name="pick_date">Изменить дату</string>
+    <string name="warn1">Либо в данный день не было сделано снимка,\nЛибо произошла ошибка, попробуйте позже</string>
+</resources>
